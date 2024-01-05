@@ -1,0 +1,7 @@
+1. in database, for field which is primary key, do auto increment
+2. for hostinger, keep all passwords same throughout
+3. in filezilla, use same password, username and other details will be obtained from ftp access on hostinger
+4. rest api calls of retroit are in bookmarks in chrome
+5. for get data from mysql, we are creating a json file of all records, put it also on server
+6. in android, data is retrieved from this json file
+ 
